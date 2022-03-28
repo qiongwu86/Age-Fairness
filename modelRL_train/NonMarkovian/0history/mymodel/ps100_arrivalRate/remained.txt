@@ -1,0 +1,1 @@
+This model are trained in torch 1.8.1+cu102.
